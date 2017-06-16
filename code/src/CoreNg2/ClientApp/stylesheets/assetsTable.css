@@ -1,0 +1,81 @@
+﻿.table-column-text {
+    font-size: 20px;
+    color: rgb(84, 84, 84);
+    padding: 10px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.table-column-text-small {
+    font-size: 15px;
+    color: rgb(84, 84, 84);
+    text-align: left;
+}
+
+.report-table-column-text {
+    font-size: 15px;
+    color: rgb(84, 84, 84);
+    padding: 10px;
+    text-align: left;
+    cursor: pointer;
+}
+
+.table-column-icons {
+    color: rgb(170, 170, 170);
+    padding: 10px;
+    text-align: right;
+    cursor: default;
+}
+
+.table-column-add {
+    font-size: 15px;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    cursor: default;
+    background-color:lightgray;
+}
+
+.table-column-add-Icon {
+    font-size: 15px;
+    color: rgb(170, 170, 170);
+    text-align: right;
+}
+
+.optionsTable {
+    width: 60%;
+}
+
+.glyphicon {
+    font-size: 17px;
+    color: rgb(170, 170, 170);
+}
+
+.deleteIcon:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.addIconStyle:hover {
+    color: greenyellow;
+    cursor: pointer;
+}
+
+
+.loading {
+    padding-left: 10%
+}
+
+.scrollable-table {
+    overflow:auto; 
+    height:60vh;
+}
+
+.breadcrumbs-style {
+    color:dimgrey;
+}
+
+.breadcrumbs-style:hover {
+    color:green;
+    text-decoration:underline;
+}
